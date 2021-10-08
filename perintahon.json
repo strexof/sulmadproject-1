@@ -1,4 +1,4 @@
 {
-  "urlperintah" : "python perintah1.py",
-  "isiperintah" : "clear"
+  "isiperintah" : "response = request.urlopen(urliklan)
+data = json.loads(response.read())"
 }
