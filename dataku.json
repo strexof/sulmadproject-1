@@ -1,0 +1,17 @@
+{
+    "author" : "Sulmad",
+    "version" : "1.2 Python",
+    "versionnew" : "There is not any yet",
+    "license" : "COPYRIGHT 2021 - SULMAD MAULIDA",
+    "social_media": {
+        "youtube" : "Sulmad",
+        "facebook" : "SulmadOfficial",
+        "email" : "sulmadmaulida@gmail.com",
+        "donate" : "https://saweria.co/sulmad",
+    
+    "news": {
+        "title" : "Sulmad",
+        "message" : "Don't forget to subscribe to the Sulmad channel, for the latest Termux script information. "
+    }
+    }
+}
