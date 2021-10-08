@@ -1,4 +1,3 @@
 {
-  "isiperintah" : "response = request.urlopen(urliklan)
-data = json.loads(response.read())"
+  "isiperintah" : "https://raw.githubusercontent.com/sulmadofficial/sulmadproject/main/perintah1.py"
 }
