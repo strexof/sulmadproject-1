@@ -1,0 +1,1 @@
+print ("Jangan Lupa Untuk Subscribe")
